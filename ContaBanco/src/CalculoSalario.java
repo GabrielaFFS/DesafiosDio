@@ -21,7 +21,7 @@ public class CalculoSalario {
         else if (valorSalario >= 1100.01 && valorSalario <= 2500) {
             valorImposto = 0.10f * valorSalario;
 
-        } else if (valorSalario > 2500) {
+        } else {
             valorImposto = 0.15f * valorSalario;
         }
 

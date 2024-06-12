@@ -16,4 +16,5 @@ Objetivo
 Criar um diagrama UML que represente as funcionalidades descritas acima.
 Implementar as classes e interfaces correspondentes em Java (Opcional).
 
-![image](https://github.com/GabrielaFFS/DesafiosDio/assets/162517593/6ac8d32d-0793-4641-ae5f-969301dfbe94)
+![image](https://github.com/GabrielaFFS/DesafiosDio/assets/162517593/b0e8517c-1539-469d-a931-3dd5f5929b00)
+

@@ -1,3 +1,5 @@
+package Banco;
+
 public interface IConta {
 	
 	void sacar(double valor);

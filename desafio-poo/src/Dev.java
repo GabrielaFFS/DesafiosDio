@@ -75,4 +75,6 @@ public class Dev {
     public int hashCode() {
         return Objects.hash(nome, conteudosInscritos, conteudosConcluidos);
     }
+    
 }
+
